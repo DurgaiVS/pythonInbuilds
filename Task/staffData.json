@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Linga",
+        "dob": "03-03-1993",
+        "dept": "ECE",
+        "programme": "BE",
+        "title": "S",
+        "position": "ASST PROF",
+        "subHand": [
+            "EC8551"
+        ],
+        "idStf": "S.1"
+    },
+    {
+        "name": "LATHA",
+        "dob": "03-03-1991",
+        "dept": "ECE",
+        "programme": "BE",
+        "title": "S",
+        "position": "PROF",
+        "subHand": [
+            "EC8552"
+        ],
+        "idStf": "S.2"
+    },
+    {
+        "name": "MARY",
+        "dob": "01-01-1990",
+        "dept": "ECE",
+        "programme": "BE",
+        "title": "S",
+        "position": "PROF",
+        "subHand": [
+            "EC8553"
+        ],
+        "idStf": "S.3"
+    },
+    {
+        "name": "VENKY",
+        "dob": "10-10-1989",
+        "dept": "ECE",
+        "programme": "BE",
+        "title": "S",
+        "position": "ASST PROF",
+        "subHand": [
+            "EC8554"
+        ],
+        "idStf": "S.4"
+    },
+    {
+        "name": "ANOTHER VENKY",
+        "dob": "09-09-1890",
+        "dept": "ECE",
+        "programme": "BE",
+        "title": "S",
+        "position": "PROF",
+        "subHand": [
+            "EC8551",
+            "EC8552",
+            "EC8554"
+        ],
+        "idStf": "S.5"
+    },
+    {
+        "name": "ANOTHER LATHA",
+        "dob": "01-01-1890",
+        "dept": "ECE",
+        "programme": "BE",
+        "title": "S",
+        "position": "PROF",
+        "subHand": [
+            "EC8552",
+            "EC8553",
+            "EC8554"
+        ],
+        "idStf": "S.6"
+    },
+    {
+        "name": "LABSIR",
+        "dob": "01-01-0000",
+        "dept": "ECE",
+        "programme": "BE",
+        "title": "S",
+        "position": "LAB PROF",
+        "subHand": [
+            "EC8555",
+            "EC8556"
+        ],
+        "idStf": "S.7"
+    },
+    {
+        "name": "ANOTHER LAB SIR",
+        "dob": "10-10-1110",
+        "dept": "ECE",
+        "programme": "BE",
+        "title": "S",
+        "position": "LAB SIR",
+        "subHand": [
+            "EC8556",
+            "EC8671"
+        ],
+        "idStf": "S.8"
+    }
+]

@@ -1,0 +1,86 @@
+[
+       {
+              "crsName": "TL",
+              "idCrs": "EC8551",
+              "dept": [
+                     "ECE",
+                     "EEE"
+              ],
+              "programme": "BE",
+              "sem": "1",
+              "crsType": "T",
+              "stfHandling": [
+                     "S.1",
+                     "S.5"
+              ]
+       },
+       {
+              "crsName": "WC",
+              "idCrs": "EC8552",
+              "dept": [
+                     "ECE",
+                     "MECH"
+              ],
+              "programme": "BE",
+              "sem": "1",
+              "crsType": "T",
+              "stfHandling": []
+       },
+       {
+              "crsName": "VLSI",
+              "idCrs": "EC8553",
+              "dept": [
+                     "ECE"
+              ],
+              "programme": "BE",
+              "sem": "1",
+              "crsType": "T",
+              "stfHandling": [
+                     "S.3",
+                     "S.6"
+              ]
+       },
+       {
+              "crsName": "POM",
+              "idCrs": "EC8554",
+              "dept": [
+                     "ECE",
+                     "IT"
+              ],
+              "programme": "BE",
+              "sem": "1",
+              "crsType": "T",
+              "stfHandling": [
+                     "S.4",
+                     "S.5",
+                     "S.6"
+              ]
+       },
+       {
+              "crsName": "LAB1",
+              "idCrs": "EC8555",
+              "dept": [
+                     "ECE"
+              ],
+              "programme": "BE",
+              "sem": "1",
+              "crsType": "P",
+              "stfHandling": [
+                     "S.7"
+              ]
+       },
+       {
+              "crsName": "LAB2",
+              "idCrs": "EC8556",
+              "dept": [
+                     "ECE"
+              ],
+              "programme": "BE",
+              "sem": "1",
+              "crsType": "P",
+              "stfHandling": [
+                     "S.7",
+                     "S.8"
+              ]
+       }
+]
